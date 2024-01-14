@@ -1,0 +1,1 @@
+This is the supplementary file for paper entitled “Temporal Relations-Aware Nonnegative Latent Factorization of Tensors for Time-Varying Directed Graph Representation”, which presents the convergence proof of the proposed TRNL model.
